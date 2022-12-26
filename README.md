@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Zexuan Chen, a sophomore from sun-yat-sen university in Guangzhou, Guangdond.
+- 👋 Hi, I’m Zexuan Chen, a sophomore from sun-yat-sen university in Guangzhou, Guangdong.
 - 👀 I’m interested in algorithms, computer vision and web knowledge.
 - 🌱 I’m currently learning computer science classes of my school.
 - 📫 My current e-mail: chenzx67@mail2.sysu.edu.cn
