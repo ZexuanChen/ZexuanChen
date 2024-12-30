@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Zexuan Chen, a senior from sun-yat-sen university in Guangzhou, Guangdong.
 - 👀 I’m interested in deep learning.
-- 🌱 I’m currently learning computer science classes of my school.
+- 🌱 I’m currently ...
 - 📫 My current e-mail: chenzx67@mail2.sysu.edu.cn
 - 😊😊
 
